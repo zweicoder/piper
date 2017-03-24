@@ -1,0 +1,2 @@
+%{"apex": {:hex, :apex, "1.0.0", "abf230314d35ca4c48a902f693247f190ad42fc14862b9c4f7dbb7077b21c20a", [:mix], []},
+  "benchfella": {:hex, :benchfella, "0.3.4", "41d2c017b361ece5225b5ba2e3b30ae53578c57c6ebc434417b4f1c2c94cf4f3", [:mix], []}}
